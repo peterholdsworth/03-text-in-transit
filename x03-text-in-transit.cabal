@@ -13,5 +13,4 @@ executable scroll
         base ^>=4.17.0.0, 
         ansi-terminal==0.11.4, 
         directory==1.3.7.1
-    hs-source-dirs:   app
     default-language: Haskell2010
